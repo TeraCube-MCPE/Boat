@@ -1,0 +1,6 @@
+---
+name: Boat
+version: 1.0.0
+main: TeraTeam\boat\Main
+api: 3.13.0
+...
